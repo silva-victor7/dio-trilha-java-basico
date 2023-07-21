@@ -1,3 +1,4 @@
+package lanchonete;
 
 import lanchonete.atendimento.Atendente;
 import lanchonete.atendimento.cozinha.Cozinheiro;
